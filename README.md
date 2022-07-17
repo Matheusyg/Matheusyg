@@ -10,6 +10,6 @@
 
 - Contate-me no E-mail: theus.yogui@gmail.com ou theus.thcosta@gmail.com
 
+- Subi varios projetos no mesmo dia pois troquei de computador e meu computador antigo não suportava subir projetos no git.
 
--Subi varios projetos no mesmo dia pois troquei de computador e meu computador antigo não suportava subir projetos no git.
 
