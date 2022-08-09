@@ -2,15 +2,9 @@
 
 - Pronomes: Ele/Dele
 
-- Sou Apaixonado por tecnologia e futuro, vi na area de ti uma oportunidade de fazer o que sempre gostei.
-
-- No momento estudo HTML, CSS, Javascript, Git e Github
-
-- Pretendo estudar React e MySQL.
+- No momento estudo Javascript e React
 
 - Contate-me no E-mail: theus.yogui@gmail.com ou theus.thcosta@gmail.com
-
-- Subi varios projetos no mesmo dia pois troquei de computador e meu computador antigo não suportava subir projetos no github.
 
 ##
 
