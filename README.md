@@ -2,9 +2,7 @@
 
 - Pronomes: Ele/Dele
 
-- No momento estudo Javascript e React
-
-- Contate-me no E-mail: theus.yogui@gmail.com ou theus.thcosta@gmail.com
+- No momento estudo Javascript e React.
 
 ##
 
